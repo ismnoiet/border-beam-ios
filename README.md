@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="./border-beam-ios-demo.gif" width="240" alt="BorderBeam iOS demo" />
-</p>
+<div align="center">
+
+| Dark | Light |
+| :---: | :---: |
+| <img src="./border-beam-ios-demo.gif" width="240" alt="BorderBeam iOS demo, dark theme" /> | <img src="./border-beam-ios-demo-light.gif" width="240" alt="BorderBeam iOS demo, light theme" /> |
+
+</div>
 
 <h1 align="center">BorderBeam</h1>
 

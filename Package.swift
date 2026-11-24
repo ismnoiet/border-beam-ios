@@ -19,5 +19,10 @@ let package = Package(
             dependencies: ["BorderBeam"],
             path: "Sources/BorderBeamDemo"
         ),
+        .testTarget(
+            name: "BorderBeamTests",
+            dependencies: ["BorderBeam"],
+            path: "Tests/BorderBeamTests"
+        ),
     ]
 )
